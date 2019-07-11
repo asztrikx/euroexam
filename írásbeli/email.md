@@ -7,7 +7,7 @@
 - információ kérés
 - információ adás
 - panasz
-- ajánl
+- ajánlás
 - támogat vmit
 - jelentkezik vmire
 - elnézést kér
