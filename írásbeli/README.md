@@ -36,6 +36,6 @@ Pozitív cuccok:
 `I would appreciate your looking into this matter.`
 
 `As a result of your mistakes detailed above, i demand first letter of apology, plus...`  
-Köszönés:  
-`Yours sicerely`  
-Harry Potter
+# Elköszönés
+- Ismert olvasó: `Yours sincerely,`
+- Ismeretlen olvasó: `Yours faithfully,`
