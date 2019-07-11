@@ -17,10 +17,25 @@
 
 `Your lack of ... has caused us a great deal of problems...`
 
-`The service fell far short of the standards advertised`
-Bövitések:
+`The service fell far short of the standards advertised`  
+Bövitések:  
 `In addition...`
 
-`Least but not last...`
+`Least but not last...`  
+Pozitív cuccok:  
+`I am generaly satisfied with the good service.`
 
+`I have no wish to go elsewhere and hope that an amicable solution can be found.`
+
+`Normaly, I am very happy with your service...`
 # Befejezés
+`Considering the reasons listed, a refund of 50 percent of my expenses seems fair...`
+
+`I suggest that avoid ..., you should...`
+
+`I would appreciate your looking into this matter.`
+
+`As a result of your mistakes detailed above, i demand first letter of apology, plus...`  
+Köszönés:  
+`Yours sicerely`  
+Harry Potter
