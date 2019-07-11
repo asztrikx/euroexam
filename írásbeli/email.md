@@ -4,7 +4,6 @@
 - célratörő
 - olvasó pozíciójának megfelelően
 # Ügy
-## Pl
 - információ kérés
 - információ adás
 - panasz
@@ -13,6 +12,23 @@
 - jelentkezik vmire
 - elnézést kér
 - bemutatkozik
+# Nyelvezet
+- formális
+	- megszólítás
+	- elköszönés
+	- ~~összevont alakok~~
+- udvarias
+- távolságtaró
+	- ~~érzelmek~~
+	- ~~mélységes felháborodás~~
+	- ~~fenyegetés~~
+# Terjedelem
+> Ez a terjedelem elsősorban ajánlás, alapból nem büntetjük az ettől való eltérést (többnyire túllépést).
+
+| Típus | Szó	|
+| ---	| ---	|
+| B2	| ~150	|
+| C1	| ~200	|
 # Megszólítás
 - `Dear ...`
 # Bevezetés
@@ -25,7 +41,18 @@
 - rövid
 - célirányos
 - címzetnek megismerni szükséges elemek
-- `NE`:
+- kohézió kifejezések segítségével
+- `NE`
 	- személyesség
 	- minden indok
 	- egyenként forrásra visszautalás
+	- forrás információnak bekezdésenkénti tárgyalása
+	- forrásban megjelölt felteendő kérdéseket direkt módon való feltevése  
+		`Bérelhetem a szobát csak 3 hónapra?`
+# Zárás
+- mit várunk az olvasótól
+	- kompenzáció
+	- mikorra, milyen formában várjuk az információt
+	- pozitív elbírálás reménye a bemutatott érvek hatására
+- ügyintézés lezárása
+# Elköszönés
