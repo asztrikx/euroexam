@@ -18,7 +18,7 @@
 `Your lack of ... has caused us a great deal of problems...`
 
 `The service fell far short of the standards advertised`  
-Bövitések:  
+Bővitések:  
 `In addition...`
 
 `Least but not last...`  
