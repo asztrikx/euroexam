@@ -1,4 +1,4 @@
-# Téma
+# Megadott téma
 - ellentmondásos
 - provokatív
 # Terjedelem
